@@ -1,30 +1,135 @@
+{
+  "tags": [
     {
-      "tags": [
-        {"title": "React", "amountOfVideos": 347},
-        {"title": "JavaScript", "amountOfVideos": 931},
-        {"title": "Python", "amountOfVideos": 412},
-        {"title": "Java", "amountOfVideos": 854},
-        {"title": "C++", "amountOfVideos": 973},
-        {"title": "C#", "amountOfVideos": 701},
-        {"title": "PHP", "amountOfVideos": 582},
-        {"title": "Ruby", "amountOfVideos": 458},
-        {"title": "Swift", "amountOfVideos": 632},
-        {"title": "Go", "amountOfVideos": 221},
-        {"title": "Kotlin", "amountOfVideos": 978},
-        {"title": "Rust", "amountOfVideos": 834},
-        {"title": "Dart", "amountOfVideos": 571},
-        {"title": "Julia", "amountOfVideos": 233},
-        {"title": "Scala", "amountOfVideos": 543},
-        {"title": "Haskell", "amountOfVideos": 174},
-        {"title": "Elixir", "amountOfVideos": 624},
-        {"title": "Erlang", "amountOfVideos": 802},
-        {"title": "Clojure", "amountOfVideos": 374},
-        {"title": "Scheme", "amountOfVideos": 789},
-        {"title": "Common Lisp", "amountOfVideos": 654},
-        {"title": "Prolog", "amountOfVideos": 403},
-        {"title": "R", "amountOfVideos": 742},
-        {"title": "MATLAB","amountOfVideos": 305},
-        {"title": "CSS", "amountOfVideos": 120}
-      ]
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 347
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 931
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 412
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 854
+    },
+    {
+      "title": "C++",
+      "slug": "old",
+      "amountOfVideos": 973
+    },
+    {
+      "title": "C#",
+      "slug": "old",
+      "amountOfVideos": 701
+    },
+    {
+      "title": "PHP",
+      "slug": "old",
+      "amountOfVideos": 582
+    },
+    {
+      "title": "Ruby",
+      "slug": "old",
+      "amountOfVideos": 458
+    },
+    {
+      "title": "Swift",
+      "slug": "old",
+      "amountOfVideos": 632
+    },
+    {
+      "title": "Go",
+      "slug": "old",
+      "amountOfVideos": 221
+    },
+    {
+      "title": "Kotlin",
+      "slug": "old",
+      "amountOfVideos": 978
+    },
+    {
+      "title": "Rust",
+      "slug": "old",
+      "amountOfVideos": 834
+    },
+    {
+      "title": "Dart",
+      "slug": "old",
+      "amountOfVideos": 571
+    },
+    {
+      "title": "Julia",
+      "slug": "old",
+      "amountOfVideos": 233
+    },
+    {
+      "title": "Scala",
+      "slug": "old",
+      "amountOfVideos": 543
+    },
+    {
+      "title": "Haskell",
+      "slug": "old",
+      "amountOfVideos": 174
+    },
+    {
+      "title": "Elixir",
+      "slug": "old",
+      "amountOfVideos": 624
+    },
+    {
+      "title": "Erlang",
+      "slug": "old",
+      "amountOfVideos": 802
+    },
+    {
+      "title": "Clojure",
+      "slug": "old",
+      "amountOfVideos": 374
+    },
+    {
+      "title": "Scheme",
+      "slug": "old",
+      "amountOfVideos": 789
+    },
+    {
+      "title": "Common Lisp",
+      "slug": "old",
+      "amountOfVideos": 654
+    },
+    {
+      "title": "Prolog",
+      "slug": "old",
+      "amountOfVideos": 403
+    },
+    {
+      "title": "R",
+      "slug": "old",
+      "amountOfVideos": 742
+    },
+    {
+      "title": "MATLAB",
+      "slug": "old",
+      "amountOfVideos": 305
+    },
+    {
+      "title": "CSS",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "id": "0d32",
+      "title": "Funcionou?",
+      "slug": "funcionou",
+      "amountOfVideos": 0
     }
-    
+  ]
+}
